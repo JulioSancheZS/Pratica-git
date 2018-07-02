@@ -1,4 +1,5 @@
 ## Aprendiendo Git
+Sistema de control de version
 
 ### Zonas de Git
 1. Directorio de trabajo
