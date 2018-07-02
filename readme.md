@@ -1,5 +1,10 @@
 ## Aprendiendo Git
 
+### Zonas de Git
+1. Directorio de trabajo
+2. Área de presentación 
+3. Directorio Git
+
 ### Flujo de trabajo básico
 1. Modificas una serie de archivos en tu directorio de trabajo.
 2. Preparas los archivos, añadiéndolos a tu área de preparación.
