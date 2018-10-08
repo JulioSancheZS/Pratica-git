@@ -18,5 +18,6 @@ git config --global user.name "Nombre ejemplo"
 git config --global user.email "julio@ejemplo.com"
 git config --global core.editor vim
 git config --list
-
 ```
+
+Esta linea fue creada en la rama master
